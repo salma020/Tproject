@@ -9,11 +9,12 @@
     background-color: rgba(231, 231, 231, 0.56);
 }
 .card3{
-    padding: 20px 30px;
+    padding: 30px 18px;
     background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
     border-radius: 10px;
     border: none;
     box-shadow: 5px 5px 10px grey;
+
 }
 .underline{
     border: 2px solid orange;
