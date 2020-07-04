@@ -26,6 +26,10 @@
     margin-left: 15px;
     margin-bottom: 5px;
 }
+.sicons{
+    color: white;
+    margin-left: 8px;
+}
 
 .section,.Reference{
     padding: 40px;
@@ -92,6 +96,42 @@ h3{
 .front{
   background-image: url(images/biography-bg.png);
   padding: 80px;
+}
+.portfolio{
+    padding: 80px;
+}
+.portfoliobtn{
+    padding: 8px 15px;
+    border: 2px solid #2e968a ;
+    background-color: none;
+    border-radius: 9px;
+    color: #36a195 ;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+.portfoliobtn:hover{
+    color: white;
+    background: #36a195;
+    text-decoration: none;
+    
+    
+}
+.portimg{
+    border-radius: 20px;
+    padding: 30px;
+}
+.portimg img{
+    border-radius: 20px;
+    height: 300px;
+    
+}
+
+.sider h2{
+    margin-bottom: 25px;
+}
+.sider p{
+    margin-bottom: 30px;
 }
 .name{
     color:#13547a ;
