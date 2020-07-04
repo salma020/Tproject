@@ -111,6 +111,7 @@ h3{
     color: #36a195 ;
     font-size: 18px;
     text-transform: uppercase;
+
     
 }
 .portfoliobtn:hover{
@@ -179,4 +180,58 @@ h3{
     border: none;
     border-radius: 8px;
     box-shadow: 4px 4px 10px grey;
+    margin-bottom: 20px;
+}
+.contact{
+    background-color: #80808026;
+    padding: 70px;
+    padding-bottom: 20px;
+    color: rgb(18, 182, 182);
+}
+.contactbox{
+   box-shadow: 3px 3px 10px gray;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    background-color: white;
+    margin-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.icon2{
+    background-color: #309e91;
+    color: white;
+}
+
+.handshake{
+    padding: 25x;
+    padding-bottom: 50px;
+}
+
+.input{
+    margin-bottom: 20px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid orange;
+}
+.inputtxt{
+    border: 1px solid #80d0c7;
+}
+.contactbtn:hover{
+    color: white;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    text-decoration: none;
+}
+.contactbtn{
+    padding: 8px 128px;
+    background-image: linear-gradient(90deg,rgb(252, 148, 29)0%,rgb(241, 182, 143)100%);
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+   
+    
+}
+.contactbutn{
+   padding-top: 30px;
+   padding-bottom: 30px;
 }
