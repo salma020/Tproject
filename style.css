@@ -3,8 +3,12 @@
     background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
      
 }
+.header{
+    padding-top: 50px;
+}
 .headerimg{
    padding: 40px;
+   padding-top: 80px;
 }
 .image{
    
@@ -99,9 +103,11 @@ h3{
 .front{
   background-image: url(images/biography-bg.png);
   padding: 80px;
+  padding-top: 80px;
 }
 .portfolio{
     padding: 80px;
+    padding-top: 100px;
 }
 .portfoliobtn{
     padding: 8px 15px;
@@ -168,6 +174,10 @@ h3{
 .M,.P{
     color: rgb(49, 188, 223);
     font-size: 38px;
+}
+.s{
+    color:rgb(49, 188, 223) ;
+    font-size: 23px;
 }
 .des{
     color: orange;
