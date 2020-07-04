@@ -37,6 +37,9 @@
     
    
 }
+.active1{
+    color: lightseagreen !important;
+}
 h3{
     color: black;
 }
@@ -155,4 +158,25 @@ h3{
     margin-top: 10px;
     box-shadow: 2px 2px 8px grey;
     
+}
+.I{
+    color: rgb(245, 119, 46);
+    font-size: 40px;
+    text-transform: lowercase;
+}
+.M,.P{
+    color: rgb(49, 188, 223);
+    font-size: 38px;
+}
+.des{
+    color: orange;
+    font-size: 35px;
+}
+.photocard{
+    border: none;
+}
+.photographyimg{
+    border: none;
+    border-radius: 8px;
+    box-shadow: 4px 4px 10px grey;
 }
