@@ -106,7 +106,7 @@ h3{
   padding-top: 80px;
 }
 .portfolio{
-    padding: 45px;
+    padding: 15px;
     padding-top: 50px;
 }
 .portfolio p,.sider p{
@@ -224,6 +224,7 @@ h3{
     width: 300px;
     border-radius: 5px;
     border: 1px solid orange;
+    height: 30px;
 }
 .inputtxt{
     border: 1px solid #80d0c7;
