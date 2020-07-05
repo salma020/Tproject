@@ -8,7 +8,7 @@
 }
 .headerimg{
    padding: 40px;
-   padding-top: 60px;
+   padding-top: 50px;
 }
 .image{
    
@@ -106,8 +106,12 @@ h3{
   padding-top: 80px;
 }
 .portfolio{
-    padding: 80px;
-    padding-top: 100px;
+    padding: 45px;
+    padding-top: 50px;
+}
+.portfolio p,.sider p{
+    color: rgb(77, 73, 73);
+    font-family: Arial;
 }
 .portfoliobtn{
     padding: 8px 15px;
